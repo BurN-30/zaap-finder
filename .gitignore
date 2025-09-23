@@ -1,0 +1,14 @@
+# Dossiers de l'éditeur de code
+.vscode/
+
+# Fichiers générés par PyInstaller
+/build/
+/dist/
+*.spec
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichier de configuration utilisateur (ne doit pas être partagé)
+zaap_finder_settings.json
