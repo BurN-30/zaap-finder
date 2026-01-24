@@ -26,9 +26,11 @@ L'interface graphique affiche les détails du trajet et permet de récupérer la
 Voici à quoi ressemblent l'interface principale et la fenêtre des paramètres :
 
 ![Interface Principale](./screenshots/main_window.png)
+
 *Interface principale en mode sombre, affichant le dernier trajet calculé.*
 
 ![Fenêtre des Paramètres](./screenshots/settings_window.png)
+
 *Fenêtre des paramètres, permettant de personnaliser le comportement de l'outil.*
 
 ### Fonctionnement en temps réel
